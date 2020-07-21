@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-priint("hello world")
+print("hello world")
